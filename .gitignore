@@ -1,0 +1,68 @@
+# Byte-compiled / optimised / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+.env.*
+
+# SQLite database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Pytest cache
+.pytest_cache/
+.cache/
+
+# Streamlit secrets (do NOT commit credentials)
+.streamlit/secrets.toml
+.streamlit/credentials.toml
+.home/
+
+# Temporary / uploaded files
+uploads/
+tmp/
+temp/
+*.tmp
+
+# User CSV data (keep sample data only)
+data/raw/*.csv
+data/processed/*.csv
+
+# Generated logs
+outputs/logs/
+*.log
+
+# Generated outputs (comment out to track saved charts)
+outputs/charts/
+outputs/exports/
+reports/monthly_reports/
+reports/transaction_reports/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/

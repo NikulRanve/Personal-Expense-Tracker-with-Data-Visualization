@@ -1,0 +1,39 @@
+date,category,amount,payment_method,description,type
+2026-09-01,Salary,45000,Bank Transfer,September monthly salary,Income
+2026-09-03,Food,850,UPI,Weekly groceries from supermarket,Expense
+2026-09-05,Transportation,200,Cash,Metro card recharge,Expense
+2026-09-07,Utilities,1500,Net Banking,Electricity bill payment,Expense
+2026-09-10,Shopping,2200,Credit Card,New running shoes,Expense
+2026-09-12,Food,350,UPI,Lunch with colleagues,Expense
+2026-09-15,Healthcare,750,UPI,Pharmacy medicines,Expense
+2026-09-18,Food,420,Cash,Street food dinner,Expense
+2026-09-20,Transportation,1800,UPI,Cab rides for the week,Expense
+2026-09-22,Other Income,5000,Bank Transfer,Freelance project payment,Income
+2026-09-25,Utilities,800,Net Banking,Internet bill,Expense
+2026-09-28,Shopping,1500,Debit Card,Books and stationery,Expense
+2026-10-01,Salary,45000,Bank Transfer,October monthly salary,Income
+2026-10-02,Food,920,UPI,Weekly groceries,Expense
+2026-10-05,Housing,12000,Bank Transfer,Monthly rent payment,Expense
+2026-10-08,Transportation,350,Cash,Auto rickshaw fares,Expense
+2026-10-10,Food,280,UPI,Coffee shop visit,Expense
+2026-10-12,Utilities,2100,Net Banking,Water and gas bill,Expense
+2026-10-15,Healthcare,1200,UPI,Doctor consultation,Expense
+2026-10-18,Shopping,3500,Credit Card,Winter jacket purchase,Expense
+2026-10-20,Food,600,Cash,Dinner at restaurant,Expense
+2026-10-22,Transportation,150,UPI,Bus pass renewal,Expense
+2026-10-25,Other Income,3000,Bank Transfer,Tutorial class income,Income
+2026-10-28,Food,450,UPI,Bakery and snacks,Expense
+2026-11-01,Salary,45000,Bank Transfer,November monthly salary,Income
+2026-11-03,Food,780,UPI,Grocery shopping,Expense
+2026-11-05,Transportation,500,UPI,Fuel for bike,Expense
+2026-11-07,Utilities,1600,Net Banking,Electricity bill,Expense
+2026-11-09,Shopping,1800,Debit Card,Home decor items,Expense
+2026-11-10,Food,320,Cash,Tea and snacks,Expense
+2026-11-12,Healthcare,2500,UPI,Annual health checkup,Expense
+2026-11-14,Housing,12000,Bank Transfer,Monthly rent,Expense
+2026-11-16,Food,550,UPI,Weekend brunch,Expense
+2026-11-18,Transportation,900,Cash,Train tickets,Expense
+2026-11-20,Other Income,8000,Bank Transfer,Diwali bonus,Income
+2026-11-22,Shopping,4200,Credit Card,Festival shopping,Expense
+2026-11-24,Food,380,UPI,Quick breakfast,Expense
+2026-11-25,Utilities,950,Net Banking,Mobile recharge,Expense
